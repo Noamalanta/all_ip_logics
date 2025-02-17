@@ -3,7 +3,7 @@ import asyncio
 import json
 import re
 
-SHODAN_API_KEY = 'ZTjGPNFY44ht9i32lhBzHUfyI5kZYejk'
+SHODAN_API_KEY = ""
 
 CLOUD_REGEX = re.compile(r"(cloud|cdn)", re.IGNORECASE)
 VPN_REGEX = re.compile(r"vpn", re.IGNORECASE)
