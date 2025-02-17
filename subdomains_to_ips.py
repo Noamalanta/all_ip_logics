@@ -39,7 +39,7 @@ def process_subdomains(input_file, output_file):
     print(f"Distinct IPs have been written to {output_file}")
 
 # Example usage:
-input_file = r"C:\Users\NoamYitzhack\Documents\re.txt"  
-output_file = r"C:\Users\NoamYitzhack\Documents\python projects\Create_DBs\ip_logics\cyberarkcomips.txt"  # The output file where IPs will be saved
+input_file = 
+output_file =   # The output file where IPs will be saved
 
 process_subdomains(input_file, output_file)
