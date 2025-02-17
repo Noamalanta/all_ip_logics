@@ -131,7 +131,7 @@ def write_results_to_file(results, output_file):
         print(f"Error writing results to file: {e}")
 
 def main():
-    file_path = r"C:\Users\NoamYitzhack\Documents\python projects\Create_DBs\ip_logics\geenergies_ips.txt"  
+    file_path = r""  
     output_file = "shodan_results_genergies.json" 
     cloud_output_file = "cloud_scan_geenergies.json"  
 
